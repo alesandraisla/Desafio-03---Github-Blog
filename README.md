@@ -1,10 +1,6 @@
 <h1 align="center">
-  <img src="./assets/home/png" />
+  <img src="./src/assets/home.png" />
 </h1>
-
-<span align="center">
-  <img src=".github/capa.png" />
-</span>
 
 ## ✨ Tecnologias
 
@@ -15,29 +11,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Styled Components](https://styled-components.com)
 
-## 🖼️ Layout
+## Layout
 
-### Página Home
-#### /
-<div align="center">
-  <img src=".github/home.png" />
-</div>
+<span align="center">
+  <img src="./src/assets/home_search.png" />
+</span>
 
-### Página User
-#### /rocketseat-education
-<div align="center">
-  <img src=".github/user.png" />
-</div>
+<span align="center">
+  <img src="./src/assets/mobile.png" />
+</span>
 
-### Página Repository
-#### /rocketseat-education/reactjs-github-blog-challenge
-<div align="center">
-  <img src=".github/repository.png" />
-</div>
 
-### Página Issue
-#### /rocketseat-education/reactjs-github-blog-challenge/1
-<div align="center">
-  <img src=".github/issue.png" />
-</div>
-# Desafio-03---Github-Blog
