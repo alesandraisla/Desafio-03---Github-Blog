@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src=".github/logo.png" />
+  <img src="./assets/home/png" />
 </h1>
 
 <span align="center">
