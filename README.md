@@ -1,35 +1,43 @@
+<h1 align="center">
+  <img src=".github/logo.png" />
+</h1>
 
-<h3 align="center">
-  <a href="https://cahmoraes.github.io/coffee-delivery">Coffee Delivery</a>
-</h3>
+<span align="center">
+  <img src=".github/capa.png" />
+</span>
 
----
+## ✨ Tecnologias
 
-## :rocket: Sobre
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Projeto construído como desafio proposto pela Rocketseat no programa Ignite. 
-<a href="https://efficient-sloth-d85.notion.site/Desafio-02-Coffee-Delivery-30e42a21fdb44b09a85244fc2c3dbdf9">Instruções</a>
+- [Vite](https://vitejs.dev)
+- [ReactJS](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com)
 
-### :computer: Desktop
-<p align="center">
-  <img src="https://github.com/Cahmoraes/coffee-delivery/blob/main/src/assets/demo/demo.gif" alt="Coffee Delivery">
-<p/>
+## 🖼️ Layout
 
+### Página Home
+#### /
+<div align="center">
+  <img src=".github/home.png" />
+</div>
 
-### :book: Aprendizado
-- Utilização da arquitera Flux com hook useReducer.
-- Type Predicate do Tyepscript para identificar interface e e enum de objetos passados para as actions.
+### Página User
+#### /rocketseat-education
+<div align="center">
+  <img src=".github/user.png" />
+</div>
 
-## :computer: Tecnologias utilizadas
+### Página Repository
+#### /rocketseat-education/reactjs-github-blog-challenge
+<div align="center">
+  <img src=".github/repository.png" />
+</div>
 
-- [typescript](https://www.typescriptlang.org/)
-- [reactjs](https://pt-br.reactjs.org/)
-- [styled-components](https://styled-components.com/)
-
-## :warning: Pré-requisitos
-
-- [git](https://git-scm.com/)
-# Desafio-Coffee-Delivery
-# Desafio-Coffee-Delivery
-# Desafio-Coffee-Delivery
+### Página Issue
+#### /rocketseat-education/reactjs-github-blog-challenge/1
+<div align="center">
+  <img src=".github/issue.png" />
+</div>
 # Desafio-03---Github-Blog

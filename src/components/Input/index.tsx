@@ -1,17 +1,11 @@
-import {
-  forwardRef,
-  ForwardRefRenderFunction,
-  InputHTMLAttributes,
-} from 'react'
-import { InputContainer } from './styles'
+import { InputHTMLAttributes } from 'react';
+
+import { InputContainer } from './styles';
 
 interface InputProps extends InputHTMLAttributes<HTMLInputElement> {}
 
-const InputComponent: ForwardRefRenderFunction<HTMLInputElement, InputProps> = (
-  { ...rest }: InputProps,
-  ref,
-) => {
-  return <InputContainer ref={ref} {...rest}></InputContainer>
+export function Input({ ...props }: InputProps) {
+  return (
+    <InputContainer {...props} />
+  );
 }
-
-export const Input = forwardRef(InputComponent)
